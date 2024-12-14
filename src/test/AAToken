@@ -1,0 +1,15 @@
+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
+
+https://github.com/khadichaa/javabatch22.git
+
+
+
+
+creating a command to add remote repo with access token
+
+https://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@github.com/khadichaa/javabatch22.git
+https://PersonalAccessToken@github.com/username/repositoryname.git
+
+
+
+git remote add origin https://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@github.com/khadichaa/javabatch22.git
